@@ -1,0 +1,5 @@
+timezone: Etc/GMT
+
+keep_files: ['.html']
+
+limit_posts: 1000
